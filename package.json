@@ -1,0 +1,23 @@
+{
+  "name": "buscador",
+  "version": "1.0.0",
+  "description": "desarrollar un buscador que muestre información sobre bienes raices, según un conjunto de filtros de busquedausando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianavanegas/buscador.git"
+  },
+  "keywords": [
+    "buscador",
+    "node.js"
+  ],
+  "author": "Adriana Vanegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianavanegas/buscador/issues"
+  },
+  "homepage": "https://github.com/adrianavanegas/buscador#readme"
+}
